@@ -1,11 +1,10 @@
 <a href="https://fantastic.com/">
     <img title="Fantastic Logo" height="150" src="https://github.com/BennyChun/Group-9-Amethyst-Ant/blob/master/client/src/image/logo.png">
 </a>
+ 
 
-# Fantastic 
 
-
-Fantastic is a party webapp that lets guests collaborate on a music playlist that should be played in the party. More details about the application can be found in the [wiki](https://github.com/BennyChun/Group-9-Amethyst-Ant/wiki). Access the app here: [https://partymusicapp.herokuapp.com](https://partymusicapp.herokuapp.com)
+A party webapp that lets guests collaborate on a music playlist that should be played in the party. More details about the application can be found in the [wiki](https://github.com/BennyChun/Group-9-Amethyst-Ant/wiki). Access the app here: [https://partymusicapp.herokuapp.com](https://partymusicapp.herokuapp.com)
 
 ## Building
 
